@@ -29,7 +29,6 @@ The integrated signal-to noise ratio (SNR) is classically the most informative m
 
 ### **Files**
 
-- **train/** - the training set files, one npy file per observation; labels are provided in a files shown below
-- **test/** - the test set files; you must predict the probability that the observation contains a gravitational wave
+- **train/** - the training set files, one npy file per observation
+- **test/** - the test set files; to predict the probability that the observation contains a gravitational wave
 - **training_labels.csv** - target values of whether the associated signal contains a gravitational wave
-- **sample_submission.csv** - a sample submission file in the correct format
