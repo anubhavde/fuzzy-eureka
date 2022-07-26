@@ -25,7 +25,7 @@ The parameters that determine the exact form of a binary black hole waveform are
 
 Each data sample (```npy``` file) contains 3 time series (1 for each detector) and each spans 2 sec and is sampled at 2,048 Hz.
 
-The integrated signal-to noise ratio (SNR) is classically the most informative measure of how detectable a signal is and a typical level of detectability is when this integrated SNR exceeds ~8. This shouldn't confused with the instantaneous SNR - the factor by which the signal rises above the noise - and in nearly all cases the (unlike the first gravitational wave detection GW150914) these signals are not visible by eye in the time series. 
+The integrated signal-to noise ratio (SNR) is classically the most informative measure of how detectable a signal is and a typical level of detectability is when this integrated SNR exceeds ~8. This shouldn't be confused with the instantaneous SNR - the factor by which the signal rises above the noise - and in nearly all cases the (unlike the first gravitational wave detection GW150914) these signals are not visible by eye in the time series. 
 
 ### **Files**
 
